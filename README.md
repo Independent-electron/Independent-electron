@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Anirban Ghosh
-- 👀 I’m interested in Cyber Security and Development.
 - 🌱 I’m currently Pursuing B.tech on Computer science Engineering from CoochBehar Government Engineering College (2019-2023). 
-- 💞️ I’m trying to make projects on CyberSecurity & Development. 
 - 📫 Mail Id : anirbanbarcelona@gmail.com 
 
 <!---
